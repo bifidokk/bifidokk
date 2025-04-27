@@ -3,7 +3,7 @@ I'm Danil!
 
 I'm a passionate developer and creator, dedicated to building innovative solutions. My current focus is on projects that can make daily life easier and better.
 
-## Projects
+### Projects
 
 ### [Habit Telegram Bot](https://github.com/bifidokk/habit-bot)
 A personalized Telegram bot designed to help you build positive habits.
