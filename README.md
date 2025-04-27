@@ -5,7 +5,7 @@ I'm a passionate developer and creator, dedicated to building innovative solutio
 
 ### Projects
 
-### [Habit Telegram Bot](https://github.com/bifidokk/habit-bot)
+### [💪 Habit Bot](https://github.com/bifidokk/habit-bot)
 A personalized Telegram bot designed to help you build positive habits.
 
 ### [🍳 Recipe Bot](https://github.com/bifidokk/recipe-bot)
